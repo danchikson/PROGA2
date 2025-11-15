@@ -5,6 +5,13 @@
             "type": "java",
             "name": "BasicDataOperation",
             "request": "launch",
+            "mainClass": "BasicDataOperation",
+            "projectName": "PROGA2_a1a1494d"
+        },
+        {
+            "type": "java",
+            "name": "BasicDataOperation",
+            "request": "launch",
             "mainClass": "${file}",
             "args": "891655.4"
         }
